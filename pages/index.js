@@ -6,5 +6,5 @@ const Title = styled.h1`
 `
 
 export default function Home() {
-  return <Title>Jenkins Teste 1</Title>
+  return <Title>Agora tem que buildar e subir sozinho!!!</Title>
 }
